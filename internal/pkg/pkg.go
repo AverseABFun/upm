@@ -2,7 +2,7 @@
 package pkg
 
 import (
-	"github.com/replit/upm/internal/api"
+	"github.com/AverseABFun/upm/internal/api"
 )
 
 func SortPrefixSuffix(normalizePackageName func(api.PkgName) api.PkgName) func(query string, packages []api.PkgInfo) []api.PkgInfo {
