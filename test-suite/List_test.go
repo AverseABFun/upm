@@ -3,8 +3,8 @@ package testSuite
 import (
 	"testing"
 
-	"github.com/replit/upm/internal/api"
-	testUtils "github.com/replit/upm/test-suite/utils"
+	"github.com/AverseABFun/upm/internal/api"
+	testUtils "github.com/AverseABFun/upm/test-suite/utils"
 )
 
 func TestList(t *testing.T) {
