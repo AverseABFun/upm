@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/natefinch/atomic"
-	"github.com/replit/upm/resources"
+	"github.com/AverseABFun/upm/resources"
 )
 
 // IgnoredPaths is a slice of file patterns that are totally ignored
