@@ -1,7 +1,6 @@
 # UPM
 
 [![GoDoc](https://godoc.org/github.com/replit/upm?status.svg)](https://godoc.org/github.com/replit/upm)
-[![Run on Repl.it](https://repl.it/badge/github/replit/upm)](https://replit.com/new/github/replit/upm)
 
 UPM is the **Universal Package Manager**. It allows you to manage
 packages for any (supported) programming language through the same
