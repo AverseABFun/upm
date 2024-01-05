@@ -3,7 +3,7 @@ package dotnet
 import (
 	"context"
 
-	"github.com/replit/upm/internal/api"
+	"github.com/AverseABFun/upm/internal/api"
 	"gopkg.in/DataDog/dd-trace-go.v1/ddtrace/tracer"
 )
 
