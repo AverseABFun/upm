@@ -9,8 +9,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/replit/upm/internal/api"
-	"github.com/replit/upm/internal/util"
+	"github.com/AverseABFun/upm/internal/api"
+	"github.com/AverseABFun/upm/internal/util"
 )
 
 const lockFileName = "packages.lock.json"
