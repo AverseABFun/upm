@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/replit/upm/internal/api"
+	"github.com/AverseABFun/upm/internal/api"
 )
 
 // CranHitSource represents the JSON we get about the information for a single package from a package search
