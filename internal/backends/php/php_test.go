@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/replit/upm/internal/api"
+	"github.com/AverseABFun/upm/internal/api"
 	"github.com/stretchr/testify/require"
 )
 
