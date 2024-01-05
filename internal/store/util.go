@@ -5,8 +5,8 @@ import (
 	"encoding/hex"
 	"os"
 
-	"github.com/replit/upm/internal/api"
-	"github.com/replit/upm/internal/util"
+	"github.com/AverseABFun/upm/internal/api"
+	"github.com/AverseABFun/upm/internal/util"
 )
 
 // hashFile computes the MD5 hash of the contents of the given file.
