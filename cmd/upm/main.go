@@ -3,7 +3,7 @@
 // internal.
 package main
 
-import "github.com/replit/upm/internal/cli"
+import "github.com/AverseABFun/upm/internal/cli"
 
 // Main entry point for the UPM binary.
 func main() {
