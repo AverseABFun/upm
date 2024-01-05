@@ -11,8 +11,8 @@ import (
 	"os/exec"
 	"path"
 
-	"github.com/replit/upm/internal/api"
-	"github.com/replit/upm/internal/util"
+	"github.com/AverseABFun/upm/internal/api"
+	"github.com/AverseABFun/upm/internal/util"
 )
 
 type NixEditorDepType string
