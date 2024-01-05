@@ -9,13 +9,13 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/replit/upm/internal/api"
-	"github.com/replit/upm/internal/backends"
-	"github.com/replit/upm/internal/config"
-	"github.com/replit/upm/internal/store"
-	"github.com/replit/upm/internal/table"
-	"github.com/replit/upm/internal/trace"
-	"github.com/replit/upm/internal/util"
+	"github.com/AverseABFun/upm/internal/api"
+	"github.com/AverseABFun/upm/internal/backends"
+	"github.com/AverseABFun/upm/internal/config"
+	"github.com/AverseABFun/upm/internal/store"
+	"github.com/AverseABFun/upm/internal/table"
+	"github.com/AverseABFun/upm/internal/trace"
+	"github.com/AverseABFun/upm/internal/util"
 	"gopkg.in/DataDog/dd-trace-go.v1/ddtrace/tracer"
 )
 
