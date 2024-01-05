@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/replit/upm/internal/trace"
+	"github.com/AverseABFun/upm/internal/trace"
 	"gopkg.in/DataDog/dd-trace-go.v1/ddtrace"
 	"gopkg.in/DataDog/dd-trace-go.v1/ddtrace/tracer"
 )
