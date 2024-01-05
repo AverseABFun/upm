@@ -5,7 +5,7 @@ import (
 	"path"
 	"testing"
 
-	testUtils "github.com/replit/upm/test-suite/utils"
+	testUtils "github.com/AverseABFun/upm/test-suite/utils"
 )
 
 var testInstalls = map[string]bool{
