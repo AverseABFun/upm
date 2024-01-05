@@ -9,8 +9,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/replit/upm/internal/api"
-	"github.com/replit/upm/internal/util"
+	"github.com/AverseABFun/upm/internal/api"
+	"github.com/AverseABFun/upm/internal/util"
 )
 
 // Used the documentation provided here https://docs.microsoft.com/en-us/nuget/api/overview
