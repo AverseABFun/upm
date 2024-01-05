@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/replit/upm/internal/backends"
-	"github.com/replit/upm/internal/config"
-	"github.com/replit/upm/internal/trace"
-	"github.com/replit/upm/internal/util"
+	"github.com/AverseABFun/upm/internal/backends"
+	"github.com/AverseABFun/upm/internal/config"
+	"github.com/AverseABFun/upm/internal/trace"
+	"github.com/AverseABFun/upm/internal/util"
 	"github.com/spf13/cobra"
 )
 
