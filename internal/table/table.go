@@ -11,7 +11,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/replit/upm/internal/util"
+	"github.com/AverseABFun/upm/internal/util"
 	"golang.org/x/term"
 )
 
