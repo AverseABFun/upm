@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/replit/upm/internal/api"
+	"github.com/AverseABFun/upm/internal/api"
 )
 
 func TestReadSpec(t *testing.T) {
