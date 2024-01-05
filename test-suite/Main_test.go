@@ -6,9 +6,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/replit/upm/internal/backends"
-	"github.com/replit/upm/test-suite/templates"
-	testUtils "github.com/replit/upm/test-suite/utils"
+	"github.com/AverseABFun/upm/internal/backends"
+	"github.com/AverseABFun/upm/test-suite/templates"
+	testUtils "github.com/AverseABFun/upm/test-suite/utils"
 )
 
 var languageBackends []testUtils.BackendT
