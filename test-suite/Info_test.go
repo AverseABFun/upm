@@ -3,7 +3,7 @@ package testSuite
 import (
 	"testing"
 
-	testUtils "github.com/replit/upm/test-suite/utils"
+	testUtils "github.com/AverseABFun/upm/test-suite/utils"
 )
 
 func TestInfo(t *testing.T) {
