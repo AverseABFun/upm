@@ -5,9 +5,9 @@ import (
 	"context"
 	"os/exec"
 
-	"github.com/replit/upm/internal/api"
-	"github.com/replit/upm/internal/nix"
-	"github.com/replit/upm/internal/util"
+	"github.com/AverseABFun/upm/internal/api"
+	"github.com/AverseABFun/upm/internal/nix"
+	"github.com/AverseABFun/upm/internal/util"
 )
 
 func dotnetIsAvailable() bool {
