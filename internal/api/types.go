@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/replit/upm/internal/util"
+	"github.com/AverseABFun/upm/internal/util"
 )
 
 // PkgName represents the name of a package, e.g. "flask" for Python.
