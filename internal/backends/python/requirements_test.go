@@ -3,7 +3,7 @@ package python
 import (
 	"testing"
 
-	"github.com/replit/upm/internal/api"
+	"github.com/AverseABFun/upm/internal/api"
 	assert "github.com/stretchr/testify/assert"
 )
 
