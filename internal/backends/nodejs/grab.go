@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/replit/upm/internal/api"
-	"github.com/replit/upm/internal/util"
+	"github.com/AverseABFun/upm/internal/api"
+	"github.com/AverseABFun/upm/internal/util"
 	"github.com/smacker/go-tree-sitter/javascript"
 	"github.com/smacker/go-tree-sitter/typescript/tsx"
 	"github.com/smacker/go-tree-sitter/typescript/typescript"
