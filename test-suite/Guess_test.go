@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/replit/upm/test-suite/templates"
-	testUtils "github.com/replit/upm/test-suite/utils"
+	"github.com/AverseABFun/upm/test-suite/templates"
+	testUtils "github.com/AverseABFun/upm/test-suite/utils"
 )
 
 func TestGuess(t *testing.T) {
