@@ -30,7 +30,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/replit/upm/internal/api"
+	"github.com/AverseABFun/upm/internal/api"
 )
 
 const (
