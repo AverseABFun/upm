@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"regexp"
 
-	"github.com/replit/upm/internal/api"
+	"github.com/AverseABFun/upm/internal/api"
 )
 
 type PackageIndex struct {
