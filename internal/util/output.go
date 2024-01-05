@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/replit/upm/internal/config"
+	"github.com/AverseABFun/upm/internal/config"
 )
 
 // Log is like fmt.Println, but writes to stderr and is inhibited by
