@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/replit/upm/internal/api"
+	"github.com/AverseABFun/upm/internal/api"
 )
 
 func TestModules(packages PackageIndex, bigqueryFile string, cacheDir string, pkgsFile string, distMods bool, workers int, force bool) {
